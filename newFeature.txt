@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content in master
+=======
+newfeature.txt.content
+>>>>>>> newFeature
